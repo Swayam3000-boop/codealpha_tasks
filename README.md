@@ -2,8 +2,8 @@ This repository contains the tasks completed during my internship at **CodeAlpha
 
 ## 🚀 Projects Overview
 
-| Task # | Project Name | Description | Technologies Used |
-|:--- |:--- |:--- |:--- |
+| Task # | Project Name | Description |
+|:--- |:--- |:--- |
 | **01** | hangman-game | A simple text-based Hangman game built in Python where the player guesses a hidden word one letter at a time. |
 | **02** | stock-portfolio-tracker |A Python CLI app that calculates total investment value based on stock quantities.|
 | **03** | python-task-automation |A collection of three beginner-friendly Python scripts that automate small, repetitive real-world tasks using core Python| libraries like os, shutil, re, and requests.
