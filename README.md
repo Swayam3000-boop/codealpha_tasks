@@ -31,8 +31,9 @@ python main.py
 
 
 
-👨‍💻 About Me
-Swayam Malakar Mechanical Engineering Student at IEM | Mechatronics & AI Enthusiast I specialize in integrating hardware with intelligent software, with a focus on Robotics, Computer Vision (YOLO), and Sustainable Engineering.
+## 👨‍💻 About Me
+
+**Swayam Malakar**Mechanical Engineering Student at IEM | Mechatronics & AI Enthusiast I specialize in integrating hardware with intelligent software, with a focus on Robotics, Computer Vision (YOLO), and Sustainable Engineering.
 
 GitHub: @Swayam3000-boop
 
